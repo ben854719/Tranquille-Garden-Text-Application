@@ -46,12 +46,12 @@ The project aims to develop an application using JavaScript that provide support
 
 ## API Credentials:
 
-- Register and obtain your Gemini API key from Google AI Studio
-- Store the key in .env file
+- Register and obtain your Gemini API key from Google AI Studio.
+- Store the key in .env file.
 
 ## LangGraph Flow Setup:
 
-- Define a multi-step processing graph for translation and reporting
+- Define a multi-step processing graph for translation and reporting.
 
  ## Configure nodes:
  
