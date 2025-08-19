@@ -41,6 +41,8 @@ The project aims to develop an application using JavaScript that provide support
 - Cryptography
 - Agentic AI
 - Gemini
+- Node.js
+- NPM
 
 # Agentic AI Configuration:
 
