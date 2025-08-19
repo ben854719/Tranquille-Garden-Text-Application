@@ -36,14 +36,11 @@ The project aims to develop an application using JavaScript that provide support
 
 - JavaScript
 - Python 3.8
-- CSS
 - HTML
 - Cryptography
 - Agentic AI
 - Gemini
-- Node.js
-- NPM
-
+    
 # Agentic AI Configuration:
 
 ## API Credentials:
