@@ -39,6 +39,8 @@ The project aims to develop an application using JavaScript that provide support
 - CSS
 - HTML
 - Cryptography
+- Agentic AI
+- Gemini
 
 # Agentic AI Configuration:
 
