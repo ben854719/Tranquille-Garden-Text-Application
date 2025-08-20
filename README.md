@@ -34,7 +34,7 @@ The project aims to develop an application using Python that provide support to 
 
 ## Prerequistes:
 
-- Python 3.8
+- Python 3.12
 - Cryptography
 - HTML
 - OpenDyslexic
