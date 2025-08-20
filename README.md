@@ -2,19 +2,19 @@
 
 # Objective:
 
-The project aims to develop an application using C++ that provide support to the individuals with ADHD and Dyslexia by providing customizable fonts, adaptive color schemes, and thoughtfully to improve the content for better readability.  The cryptography ensures that the application securely manages with the user data across the platform. The Agentic AI enables the application for the speech-to-text functionality and document narration, with translation precision exceeding 95% in English, French, and Spanish. Early testing reveals a 40% increase in reading comprehension and a 30% decrease in cognitive fatigue across diverse age groups.
+The project aims to develop an application using Python that provide support to the individuals with ADHD and Dyslexia by providing customizable fonts, adaptive color schemes, and thoughtfully to improve the content for better readability.  The cryptography ensures that the application securely manages with the user data across the platform. The Agentic AI enables the application for the speech-to-text functionality and document narration, with translation precision exceeding 95% in English, French, and Spanish. Early testing reveals a 40% increase in reading comprehension and a 30% decrease in cognitive fatigue across diverse age groups.
 
 # Video of the project:
 
 # Features:
 
- ## JavaScript-Powered Accessibility:
+ ## Python Powered Accessibility:
  
 - Customizable Fonts: Choose from ADHD- and Dyslexia-friendly typefaces to reduce the visual strain.
   
 - Adaptive Color Schemes: Personalize contrast and background tones to improve the focus and the comfort.
   
-- Chunked Content Rendering: Automotically will breaks down the long text into digestible segments using dynamic JavaScript logic.
+- Chunked Content Rendering: Automotically will breaks down the long text into digestible segments using Python
 
 ## Cryptographic Data Security:
 
