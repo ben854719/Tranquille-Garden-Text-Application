@@ -8,13 +8,13 @@ The project aims to develop an application using Python that provide support to 
 
 # Features:
 
- ## Python Powered Accessibility:
+ ## Python Accessibility Features:
  
 - Customizable Fonts: Choose from ADHD- and Dyslexia-friendly typefaces to reduce the visual strain.
   
 - Adaptive Color Schemes: Personalize contrast and background tones to improve the focus and the comfort.
   
-- Chunked Content Rendering: Automotically will breaks down the long text into digestible segments using Python
+- Chunked Content Rendering: Automotically will breaks down the long text into digestible segments using Python.
 
 ## Cryptographic Data Security:
 
