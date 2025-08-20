@@ -10,7 +10,7 @@ The project aims to develop an application using Python that provide support to 
 
  ## Python Accessibility Features:
  
-- Customizable Fonts: Choose from ADHD- and Dyslexia-friendly typefaces to reduce the visual strain.
+- Customizable Fonts: Choose from ADHD and Dyslexia-friendly typefaces to reduce the visual strain.
   
 - Adaptive Color Schemes: Personalize contrast and background tones to improve the focus and the comfort.
   
@@ -37,6 +37,8 @@ The project aims to develop an application using Python that provide support to 
 - Python 3.8
 - Cryptography
 - HTML
+- OpenDyslexic
+- Lexend
 - Agentic AI
 - Gemini
     
