@@ -34,9 +34,9 @@ The project aims to develop an application using Python that provide support to 
 
 ## Prerequistes:
 
-- C++
 - Python 3.8
 - Cryptography
+- HTML
 - Agentic AI
 - Gemini
     
