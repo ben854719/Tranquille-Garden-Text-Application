@@ -4,9 +4,10 @@
 
 The project aims to develop an application using Python that provide support to the individuals with ADHD and Dyslexia by providing customizable fonts, adaptive color schemes, and thoughtfully to improve the content for better readability.  The cryptography ensures that the application securely manages with the user data across the platform. The Agentic AI enables the application for the speech-to-text functionality and document narration, with translation precision exceeding 95% in English, French, and Spanish. Early testing reveals a 40% increase in reading comprehension and a 30% decrease in cognitive fatigue across diverse age groups.
 
-# Video of the Project on YouTube :
+# Upload Video of the Project:
 
-[YouTube](https://youtu.be/8tq_D3wXE_Q)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/vm4k6kfw5Ho)
+
 # Features:
 
  ## Python Accessibility Features:
