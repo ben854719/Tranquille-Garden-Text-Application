@@ -6,7 +6,7 @@ The project aims to develop an application using Python that provide support to 
 
 # Upload Video of the Project:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/vm4k6kfw5Ho)
+[YouTube](https://youtu.be/vm4k6kfw5Ho)
 
 # Features:
 
