@@ -6,8 +6,7 @@ The project aims to develop an application using Python that provide support to 
 
 # Video of the Project :
 
-https://youtu.be/8tq_D3wXE_Q
-
+[YouTube](https://youtu.be/8tq_D3wXE_Q)
 # Features:
 
  ## Python Accessibility Features:
