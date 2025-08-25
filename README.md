@@ -42,7 +42,7 @@ The project aims to develop an application using Python that provide support to 
 - OpenDyslexic
 - Lexend
 - Agentic AI
-- Module Control Protocol
+- Model Context Protocol
 - Gemini
     
 # Agentic AI Configuration:
